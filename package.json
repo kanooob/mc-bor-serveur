@@ -9,7 +9,7 @@
   "author": "IceLater",
   "license": "MIT",
   "dependencies": {
-    "mineflayer": "^4.34.0"
+    "mineflayer": "^4.33.1"
   }
 }
   
